@@ -146,8 +146,8 @@ button:active {
 }
 
 #highlights:before {
-  content: dfdfdfdfd;
-  /* background: url('assets/wave.svg');
+  /* content: dfdfdfdfd; */
+  background: url('assets/wave.svg');
   content: "";
   position: absolute;
   width: 101vw;
@@ -157,12 +157,12 @@ button:active {
   z-index: 1;
   background-size: cover;
   background-repeat: no-repeat;
-  transform: translateY(-100%); */
+  transform: translateY(-100%);
 }
 
 #highlights:after {
-  content: dfdfdfdfd;
-  /* background: url('assets/wave.svg');
+  /* content: dfdfdfdfd; */
+  background: url('assets/wave.svg');
   content: "";
   position: absolute;
   width: 101vw;
@@ -173,7 +173,7 @@ button:active {
   z-index: 1;
   background-size: cover;
   background-repeat: no-repeat;
-  transform: translateY(100%); */
+  transform: translateY(100%);
 }
 
 .highlight__wrapper {
