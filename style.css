@@ -141,12 +141,11 @@ button:active {
 
 /* HIGHLIGHTS */
 
-#highlight {
+#highlights {
   position: relative;
 }
 
 #highlights:before {
-  /* content: dfdfdfdfd; */
   background: url('assets/wave.svg');
   content: "";
   position: absolute;
@@ -161,7 +160,6 @@ button:active {
 }
 
 #highlights:after {
-  /* content: dfdfdfdfd; */
   background: url('assets/wave.svg');
   content: "";
   position: absolute;
